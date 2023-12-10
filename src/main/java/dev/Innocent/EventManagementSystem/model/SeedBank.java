@@ -1,6 +1,6 @@
 package dev.Innocent.EventManagementSystem.model;
 
-import com.decagon.eventbookingsq16.serviceImpl.DatabaseSeedServiceImpl;
+import dev.Innocent.EventManagementSystem.serviceImpl.DatabaseSeedServiceImpl;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
