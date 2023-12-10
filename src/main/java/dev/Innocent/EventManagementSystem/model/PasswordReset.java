@@ -1,6 +1,6 @@
 package dev.Innocent.EventManagementSystem.model;
 
-import com.decagon.eventbookingsq16.util.TimestampUtil;
+import dev.Innocent.EventManagementSystem.util.TimestampUtil;
 import jakarta.persistence.Entity;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 import java.util.Calendar;
 import java.util.UUID;
 
-import static com.decagon.eventbookingsq16.util.TimestampUtil.EXPIRATION_MINUTES;
+import static dev.Innocent.EventManagementSystem.util.TimestampUtil.EXPIRATION_MINUTES;
 
 @Data
 @AllArgsConstructor
