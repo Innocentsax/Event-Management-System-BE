@@ -1,6 +1,6 @@
 package dev.Innocent.EventManagementSystem.dto;
 
-import com.decagon.eventbookingsq16.model.User;
+import dev.Innocent.EventManagementSystem.model.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
