@@ -1,5 +1,5 @@
 package dev.Innocent.EventManagementSystem.model;
-import com.decagon.eventbookingsq16.enums.Role;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
