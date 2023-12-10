@@ -1,6 +1,6 @@
 package dev.Innocent.EventManagementSystem.dto;
 
-import com.decagon.eventbookingsq16.enums.Role;
+import dev.Innocent.EventManagementSystem.enums.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
