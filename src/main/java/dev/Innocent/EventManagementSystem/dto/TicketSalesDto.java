@@ -1,6 +1,6 @@
 package dev.Innocent.EventManagementSystem.dto;
 
-import com.decagon.eventbookingsq16.enums.PaymentType;
+import dev.Innocent.EventManagementSystem.enums.PaymentType;
 import lombok.Data;
 
 import java.util.List;
